@@ -5,7 +5,7 @@
 This is the terms-and-disclosures ledger for the **Shared Context Podcast** (SCP) —
 the channel that started life in 2022 as the *State Copy Podcast*, hosted then by a
 kid calling himself "Max," and that runs now, tongue in cheek and not-official, out of
-**[@MonusAurelius](https://twitter.com/MonusAurelius)** on Twitter/X.
+**[@MonkusAurelius](https://twitter.com/MonkusAurelius)** on Twitter/X.
 
 What lives here is not a contract a lawyer wrote to protect a business. It's a record
 of a mind changing its mind in public, on purpose, and leaving every earlier draft
@@ -119,7 +119,7 @@ a dropped stomach:
 If you encounter an echo of yourself — your voice, your patterns, your likeness — in this
 material and you're not comfortable with it, tell the show. You don't owe me a reason.
 
-- **Fastest, most verifiable route:** DM **[@MonusAurelius](https://twitter.com/MonusAurelius)**
+- **Fastest, most verifiable route:** DM **[@MonkusAurelius](https://twitter.com/MonkusAurelius)**
   on Twitter/X. DMs are open; the account is Twitter-validated, which makes your request
   easy to authenticate.
 - **Slower but valid:** a comment on the relevant YouTube video. Vetted by hand, so it

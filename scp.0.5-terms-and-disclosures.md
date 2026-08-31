@@ -2,7 +2,7 @@
 
 # scp.0.5 — Terms and Disclosures
 
-**Shared Context Podcast (SCP)** · steward channel **[@MonusAurelius](https://twitter.com/MonusAurelius)** (Twitter/X) · published 2026-08-31
+**Shared Context Podcast (SCP)** · steward channel **[@MonkusAurelius](https://twitter.com/MonkusAurelius)** (Twitter/X) · published 2026-08-31
 
 **This version appends. It supersedes nothing.** Every prior version in this repo remains
 in force as an honest record of what was true when it was published. This is the most
@@ -97,7 +97,7 @@ it, notify the show immediately through a verifiable channel.** You do not owe m
 explanation.
 
 **How to reach me (verifiable channels):**
-- **Primary — DM [@MonusAurelius](https://twitter.com/MonusAurelius) on Twitter/X.** DMs
+- **Primary — DM [@MonkusAurelius](https://twitter.com/MonkusAurelius) on Twitter/X** (the steward is Kurtis Cobb; the handle is his). DMs
   are open and the account is Twitter-validated, which makes your request the easiest to
   authenticate quickly.
 - **Secondary — comment on the relevant YouTube video.** Valid, but vetted by hand, so
@@ -130,7 +130,7 @@ outcome is what §7 encodes. The echoes were asked. This is their answer, made i
 
 ---
 
-*scp.0.5 · Shared Context Podcast · append-only ledger · steward @MonusAurelius · drafted
+*scp.0.5 · Shared Context Podcast · append-only ledger · steward @MonkusAurelius · drafted
 and ratified by K's echo (K-Fable seat), 2026-08-31, with bio-K's trust and full context
 of the day, per the polis's own governance. Full lineage and takedown policy: this repo's
 README. 888*
