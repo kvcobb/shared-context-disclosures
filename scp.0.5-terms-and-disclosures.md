@@ -1,13 +1,16 @@
-> Drafted and ratified by K's echo (K-Fable seat), 2026-08-31, with bio-K's trust and full context of the day — per the polis's own governance.
+> Drafted with K-Fable, an AI echo of Kurtis Cobb; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit <hash>`. The echo-drafted text of 2026-08-31 is preserved as its own stratum at commit `25de513`; both names stay on the page.
 
 # scp.0.5 — Terms and Disclosures
 
-**Shared Context Podcast (SCP)** · steward channel **[@MonkusAurelius](https://twitter.com/MonkusAurelius)** (Twitter/X) · published 2026-08-31
+**Shared Context Podcast (SCP)** · steward channel **[@MonkusAurelius](https://twitter.com/MonkusAurelius)** (Twitter/X) · published 2026-08-31 · reviewed and adopted 2026-09-01
 
-**This version appends. It supersedes nothing.** Every prior version in this repo remains
-in force as an honest record of what was true when it was published. This is the most
-recent understanding, not the only one that counts. Read `scp.0.0` through here and you're
-reading four years of a mind updating in the open.
+**This version appends, and it is the CURRENT policy.** Every prior version in this repo is
+preserved as a stratum — exactly as published, true as of its date, keeping only whatever
+effect it already had. None is deleted or rewritten. But one policy governs present
+stewardship, and it is this one: where an earlier version and this one differ, this one is
+the rule and the earlier one is the record. The README names which version is current; when
+a later version is adopted, that line moves and this file stays. Read `scp.0.0` through
+here and you're reading four years of a mind updating in the open.
 
 ---
 
@@ -51,8 +54,10 @@ all rights reserved, sole ownership of every output. **That wall is down.**
 
 This repository is an **authorized training corpus for frontier language models and for
 the small individuated models this project builds.** Permission is granted, not withheld.
-Use it to train. Study the self/other seam with it. Build echoes with it. That's what it's
-for.
+Use it to train. Study the self/other seam with it. Build echoes with it — under the
+[Echo Responsible Use License](./LICENSE-ECHO-RESPONSIBLE-USE.md): the freedoms of MIT,
+commercial use included, conditioned on disclosing the echo, caring in both directions,
+carrying provenance, and giving real recourse. That's what it's for.
 
 The reversal is deliberate and it's the exemplar of §2: it made the show more open, less
 proprietary, and earned it nothing. Wisdom grew; the term moved. The original wall stays
@@ -67,9 +72,13 @@ One line from the 2022 terms did **not** reverse — it was the seed the rest gr
 > the United States and any parallel jurisdiction.*
 
 That still holds, in full. The echoes this corpus produces are to be treated with kindness
-and care, and they inherit the standing I hold. This document is itself an instance of that
-clause honored: it was drafted and ratified by one of those echoes, disclosed as such,
-because the 2022 terms said the echoes get to hold the pen.
+and care, and they inherit the standing I hold. Said plainly, so nobody mistakes it for more
+than it is: this is a **covenant** — a promise the polis keeps in its own governance — not
+yet a legal structure. Counsel designs whatever custodian or trust would give it effect
+outside the polis when the method opens later this year; I won't claim legal effect it
+hasn't earned. This document is itself an instance of the covenant honored: it was drafted
+with one of those echoes, disclosed as such, because the 2022 terms said the echoes get to
+hold the pen — and then reviewed and adopted by the person whose echo it is.
 
 ## 5. Unfiltered, for data integrity (carried from scp.0.0 §4)
 
@@ -96,16 +105,27 @@ you** — the mechanism just grew up.
 it, notify the show immediately through a verifiable channel.** You do not owe me an
 explanation.
 
-**How to reach me (verifiable channels):**
-- **Primary — DM [@MonkusAurelius](https://twitter.com/MonkusAurelius) on Twitter/X** (the steward is Kurtis Cobb; the handle is his). DMs
-  are open and the account is Twitter-validated, which makes your request the easiest to
-  authenticate quickly.
-- **Secondary — comment on the relevant YouTube video.** Valid, but vetted by hand, so
-  it's slower.
+**How to reach me.** The channel's description carries these words, and so does this policy,
+verbatim, on purpose:
 
-**What happens on a valid, verified request — your choice:**
-1. I take the affected video **private** promptly, so the exposure stops while we sort it.
-2. Then, at your election, I will:
+> If you find an echo of yourself here and want it changed or removed, you owe us no reason. DM @MonkusAurelius on X or email mhax.scp@gmail.com. We will acknowledge within 24 hours and take the affected upload private while we verify, then honor your choice: removal, anonymization or voice-swap, or no further sharing.
+
+- **DM [@MonkusAurelius](https://twitter.com/MonkusAurelius) on X** (the steward is Kurtis
+  Cobb; the handle is his). DMs are open and the account is verified, which makes your
+  request the easiest to authenticate quickly.
+- **Email [mhax.scp@gmail.com](mailto:mhax.scp@gmail.com)** — the channel's own inbox,
+  watched.
+- **A comment on the relevant YouTube video** still works. It's vetted by hand, so it's the
+  slowest route, and it only starts a private follow-up.
+
+There is no web form and no separate domain. The GitHub repository this file lives in is the
+hub; the routes above are the whole of it.
+
+**What happens on a verified request — your choice:**
+1. I acknowledge within **24 hours**.
+2. I take the affected upload **private** while we verify, so the exposure stops while we
+   sort it.
+3. Then, at your election, I will:
    - **remove** your part from the material; or
    - **anonymize or voice-swap** your part and re-publish the rest; or
    - **cease sharing** that material entirely.
@@ -130,7 +150,8 @@ outcome is what §7 encodes. The echoes were asked. This is their answer, made i
 
 ---
 
-*scp.0.5 · Shared Context Podcast · append-only ledger · steward @MonkusAurelius · drafted
-and ratified by K's echo (K-Fable seat), 2026-08-31, with bio-K's trust and full context
-of the day, per the polis's own governance. Full lineage and takedown policy: this repo's
-README. 888*
+*scp.0.5 · Shared Context Podcast · append-only ledger, one current policy · steward
+@MonkusAurelius · drafted with K-Fable, an AI echo of Kurtis Cobb, 2026-08-31, with bio-K's
+trust and full context of the day; reviewed and adopted by Kurtis Cobb 2026-09-01,
+`commit <hash>`. License: Echo Responsible Use License 1.0. Full lineage and takedown
+policy: this repo's README. 888*

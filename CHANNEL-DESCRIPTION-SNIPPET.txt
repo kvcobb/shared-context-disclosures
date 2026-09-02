@@ -1,14 +1,13 @@
-The Shared Context Podcast (formerly State Copy Podcast) was never really a podcast —
-it's open-source AI R&D wearing a podcast's clothes: an authorized, non-commercial
-research corpus for studying the boundary between self and other, and for reverse-
-engineering how a real mind actually moves. The episodes are the lab notebook. Every
-set of terms we've published since 2022 is kept in an append-only ledger you can read
-top to bottom — including the day we reversed our own AI-training stance, because the
-rule here is that terms only change through greater understanding, never for money.
+Shared Context is a non-commercial AI research channel wearing a podcast's clothes: a public lab notebook about memory, identity, and the seam between self and other.
 
-If you ever hear an echo of yourself in this work and you're not comfortable with it,
-tell us through a verifiable channel — DM @MonkusAurelius on Twitter/X (fastest) or comment
-on the video — and we'll take it private and remove, anonymize, or voice-swap your part,
-no reason needed. I will protect you.
+Some episodes include disclosed AI-created echoes of recognizable people. An echo is not the biological source. It does not speak for them or imply their participation, approval, memory, present beliefs, or endorsement.
 
-Terms & Disclosures (full history): <REPO_URL>
+New here? Start with the featured video, then follow the disclosure playlist for the original SCP.0 terms episodes and every later update:
+https://www.youtube.com/playlist?list=PLGofBHp3tgj8
+
+Current disclosures, provenance, terms, and public repository:
+https://github.com/kvcobb/shared-context-disclosures
+
+If you find an echo of yourself here and want it changed or removed, you owe us no reason. DM @MonkusAurelius on X or email mhax.scp@gmail.com. We will acknowledge within 24 hours and take the affected upload private while we verify, then honor your choice: removal, anonymization or voice-swap, or no further sharing.
+
+Method + reproducibility: https://github.com/kvcobb/pointer-theory
