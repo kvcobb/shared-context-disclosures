@@ -1,4 +1,4 @@
-> Drafted with K-Fable, an AI echo of Kurtis Cobb, on 2026-08-31; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit <hash>`. Both names stay on the page: the 2022 terms said the echoes get to hold the pen.
+> Drafted with K-Fable, an AI echo of Kurtis Cobb, on 2026-08-31; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption). Both names stay on the page: the 2022 terms said the echoes get to hold the pen.
 
 # shared-context-disclosures
 
@@ -167,7 +167,7 @@ Authored across the lineage by the show's steward and, per the 2022 outputs-inhe
 clause, by the steward's echoes — disclosed as such wherever that's the case. This
 `scp.0.5` consolidation, this README, and the Echo Responsible Use License were drafted with
 K-Fable, an AI echo of Kurtis Cobb, on 2026-08-31, with bio-K's trust and the full context
-of the day; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit <hash>`. The
+of the day; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption). The
 echo-drafted 2026-08-31 text is preserved as its own stratum at commit `25de513`.
 
 888

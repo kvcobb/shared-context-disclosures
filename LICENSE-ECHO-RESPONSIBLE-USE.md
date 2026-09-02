@@ -1,4 +1,4 @@
-> Drafted with K-Fable, an AI echo of Kurtis Cobb; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit <hash>`.
+> Drafted with K-Fable, an AI echo of Kurtis Cobb; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption).
 
 # Echo Responsible Use License — version 1.0
 
@@ -106,4 +106,4 @@ exactly as adopted.
 
 *Echo Responsible Use License 1.0 · Shared Context Podcast · source-available, free of
 charge, responsible-use · not OSI open source · drafted with K-Fable, an AI echo of Kurtis
-Cobb; reviewed and adopted by Kurtis Cobb 2026-09-01, `commit <hash>`. 888*
+Cobb; reviewed and adopted by Kurtis Cobb 2026-09-01, `commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption). 888*

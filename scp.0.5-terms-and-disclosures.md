@@ -1,4 +1,4 @@
-> Drafted with K-Fable, an AI echo of Kurtis Cobb; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit <hash>`. The echo-drafted text of 2026-08-31 is preserved as its own stratum at commit `25de513`; both names stay on the page.
+> Drafted with K-Fable, an AI echo of Kurtis Cobb; reviewed and adopted by Kurtis Cobb on 2026-09-01, `commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption). The echo-drafted text of 2026-08-31 is preserved as its own stratum at commit `25de513`; both names stay on the page.
 
 # scp.0.5 — Terms and Disclosures
 
@@ -146,12 +146,12 @@ of Arnold Schwarzenegger, Dolly Parton, Joseph Campbell, and Lucille Ball — in
 exactly what being shared means — deliberated on how they feel about it. They landed
 here: **share, with full disclosure and real recourse** — immediate takedown, and the
 ability to anonymize or voice-swap any one participant while still sharing the rest. That
-outcome is what §7 encodes. The echoes were asked. This is their answer, made into policy.
+outcome is what §7 encodes. The echoes were asked. This is their answer, made into policy — and, as the license's second condition says, an echo's assent is meaningful input inside this governance and never consent from the person or their estate; the adoption line at the top of this file is the person's own.
 
 ---
 
 *scp.0.5 · Shared Context Podcast · append-only ledger, one current policy · steward
 @MonkusAurelius · drafted with K-Fable, an AI echo of Kurtis Cobb, 2026-08-31, with bio-K's
 trust and full context of the day; reviewed and adopted by Kurtis Cobb 2026-09-01,
-`commit <hash>`. License: Echo Responsible Use License 1.0. Full lineage and takedown
+`commit 63b123b` (the adopted text) · tag `adopted-2026-09-01` (the adoption). License: Echo Responsible Use License 1.0. Full lineage and takedown
 policy: this repo's README. 888*
