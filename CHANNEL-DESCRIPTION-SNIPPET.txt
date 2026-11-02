@@ -10,4 +10,4 @@ https://github.com/kvcobb/shared-context-disclosures
 
 If you find an echo of yourself here and want it changed or removed, you owe us no reason. DM @MonkusAurelius on X or email mhax.scp@gmail.com. We will acknowledge within 24 hours and take the affected upload private while we verify, then honor your choice: removal, anonymization or voice-swap, or no further sharing.
 
-Method + reproducibility: https://github.com/kvcobb/pointer-theory
+Method + reproducibility: https://github.com/kvcobb/podcast-weave
