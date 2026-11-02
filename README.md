@@ -106,8 +106,8 @@ distance.
   stewardship, and it is always the one this README names as current; today that is
   [scp.0.5](./scp.0.5-terms-and-disclosures.md). Where an earlier stratum and the current
   policy differ, the current policy is the rule and the earlier one is the record.
-- **Backfill is legitimate.** The archive is old and a little scattered. A few early
-  versions (`scp.0.2`, `scp.0.4`) and the earliest addendum are still being
+- **Backfill is legitimate.** The archive is old and a little scattered. One early
+  version (`scp.0.4`) and the earliest addendum are still being
   located in the original sources. When found, they get added into their real historical
   slot with their real date — never reconstructed from memory, never back-dated to look
   clean. A gap in the numbers is a promise to fill it truthfully, not a hole to paper
@@ -121,7 +121,7 @@ distance.
 |---|---|---|
 | [`scp.0.0`](https://www.youtube.com/watch?v=inn6cpaVRkk) | 2022-10-28 | **Terms and Disclosures**, episode 0, hosted as "Max." The five originals — sequence-and-totality, the amendment right, the (later-reversed) AI/ML permission wall, unfiltered-for-integrity, not-financial-advice. Includes the outputs-inherit-rights clause. Recorded 2022-10-28; on the channel 2022-11-18. |
 | [`scp.0.1`](https://www.youtube.com/watch?v=k2VzFcZ2BhQ) | 2023-03-08 | **First Amendment to Terms**, episode 0.1, still "Max." Re-reads the five originals from the sheet, then adds item 7: not medical advice — psychedelics, therapy, psychiatric health; the host is not a licensed practitioner — applied retroactively to all content. Ends with the note to any lawyer hired to find an angle: *are you doing the best thing you could be doing with who you are right now?* This is the "First Amendment to Terms" the ledger used to list separately; reconciled to its slot 2026-09-01, on the channel, transcript in the archive. |
-| `scp.0.2` | — | *In the archive; being located.* |
+| [`scp.0.2`](./scp.0.2-terms-and-disclosures.ORIGINAL-2023.txt) | 2023-10-19 | **Third revision**, episode 0.2, in Kurtis's own name. Reads items one to seven, then adds item 8: the terms extend to guests for the episodes they appeared in, and machine-learning outputs go to their respective owners. Recorded in Kurtis's voice and never published on the channel; the text here is his written script, kept as it was, typos included. |
 | Batch Release Disclaimer | 2022–2024 | Disclaimer covering batch episode drops. |
 | [`scp.0.3`](https://www.youtube.com/watch?v=l6FlbpkU3cU) | 2024-11-21 | **The training-stance reversal, first stated.** Prompted by Stanford's generative-agents paper: the scp.0.0 §3 wall comes down, the corpus is declared an open dataset for ML training, GPL-spirited, on one condition — disclose that you trained on it. "Terms officially updated to all parties." The update sits inside a 31-minute journal episode. Located 2026-09-01, on the channel. |
 | `scp.0.4` | — | *Being located.* |
